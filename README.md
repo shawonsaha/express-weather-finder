@@ -1,2 +1,2 @@
 # express-weather-finder
-![Putting query data](https://i.imgur.com/4BroOgk.mp4)
+![Enter City Name](https://i.imgur.com/w0bI7dg.gif)
